@@ -798,7 +798,7 @@ function Footer() {
         <div className="flex flex-col items-center gap-1.5 text-center md:items-end md:text-right">
           <p>© {new Date().getFullYear()} Tecnoeletro — Soluções em Engenharia, Automação e Energia.</p>
           <p className="text-xs text-muted-foreground">
-            Criciúma - SC | WhatsApp: (48) 98813-1813
+            Turvo - SC | WhatsApp: (48) 98813-1813
           </p>
         </div>
       </div>
@@ -809,7 +809,7 @@ function Footer() {
 function FloatingWhatsAppButton() {
   return (
     <a
-      href="https://wa.me/5548988131813"
+      href="https://wa.me/5548988131813?text=Ol%C3%A1%20vim%20pelo%20site%20e%20gostaria%20de%20saber%20mais%20sobre%20os%20produtos%20e%20servi%C3%A7os%2C%20consegue%20me%20ajudar%3F"
       target="_blank"
       rel="noopener noreferrer"
       aria-label="Falar no WhatsApp"
